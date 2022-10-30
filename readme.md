@@ -1,12 +1,10 @@
-# Challenge Week 4
+# :zap: Challenge Week 4
 
-Escribe en un módulo propio, una función llamada strictEquals(a, b) que devuelva el mismo valor que a === b. Tu implementación no puede usar los operadores === ni !==.
+Escribe en un módulo propio, una función llamada **_strictEquals(a, b)_** que devuelva el mismo valor que a === b. Tu implementación no puede usar los operadores === ni !==.
 
 Testea la función desde otro fichero con este set de pruebas:
 
-Dada la función strictEquals
-Cuando se comparan <A> y <B>
-Entonces el resultado será <Result>
+Dada la función **_strictEquals_**, cuando se comparan **A** y **B**, el resultado será **RESULT**
 
 |    A    |   B   | RESULT |                     |
 | :-----: | :---: | :----: | :------------------ |
@@ -19,8 +17,8 @@ Entonces el resultado será <Result>
 |  false  | false |  true  |                     |
 | "Water" | "oil" | false  |                     |
 
--   Crea un repo como siempre, con los mismos hook husky que anteriormente
--   Creamos proyecto incluido ESLint (airbnb) y prettier
--   Creamos el repo, protegemos la rama y añadimos husky
--   Creamos la rama de trabajo:
--   Mergeamos con PR
+-   Crea un repositorio en GitHub con la rama main protegida.
+-   Crea un proyecto que incluya EsLint (Airbnb) y Prettier.
+-   Añade Husky y los hooks "commit-msg" y "pre-push".
+-   Crea rama de trabajo.
+-   Mergea con PR.

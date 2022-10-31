@@ -1,6 +1,6 @@
-# :zap: Challenge Week 4
+<img align="right" width="179" height="118" alt="ISDI CODER LOGO" src="/assets/isdi_logo.jpg">
 
-<img align="right" width="249" height="123" alt="ISDI CODER LOGO" src="/assets/isdi_logo.jpg">
+# :zap: Challenge Week 4
 
 Escribe en un módulo propio, una función llamada **_strictEquals(a, b)_** que devuelva el mismo valor que `a === b`. Tu implementación no puede usar los operadores `===` ni `!==`.
 
@@ -30,6 +30,10 @@ Dada la función **_strictEquals_**, cuando se comparan **A** y **B**, el result
 -   [x] Crea rama de trabajo.
 
 -   [x] Mergea con PR.
+
+## Resultado
+
+https://patricia-challenge-w4.netlify.app/
 
 ## Tecnologías usadas
 

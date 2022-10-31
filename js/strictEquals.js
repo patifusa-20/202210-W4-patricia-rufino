@@ -13,7 +13,7 @@ const strictEquals = (a, b) => {
     }
 
     const result = Object.is(valueA, valueB);
-    console.log(result);
+    return result;
 };
 
 export default strictEquals;

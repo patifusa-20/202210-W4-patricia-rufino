@@ -1,6 +1,6 @@
-![Logos of used technologies](/assets/isdi_logo.jpg)
-
 # :zap: Challenge Week 4
+
+<img align="right" width="249" height="123" alt="ISDI CODER LOGO" src="/assets/isdi_logo.jpg">
 
 Escribe en un módulo propio, una función llamada **_strictEquals(a, b)_** que devuelva el mismo valor que `a === b`. Tu implementación no puede usar los operadores `===` ni `!==`.
 

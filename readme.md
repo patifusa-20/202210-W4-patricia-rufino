@@ -1,6 +1,7 @@
+![Logos of used technologies](/assets/header_isdi_logo.jpg)
+
 # :zap: Challenge Week 4
 
-![Logos of used technologies](/assets/header_logos.jpg)
 Escribe en un módulo propio, una función llamada **_strictEquals(a, b)_** que devuelva el mismo valor que `a === b`. Tu implementación no puede usar los operadores `===` ni `!==`.
 
 Testea la función desde otro fichero con este set de pruebas:
@@ -20,8 +21,16 @@ Dada la función **_strictEquals_**, cuando se comparan **A** y **B**, el result
 
 ## Requisitos
 
-:white_check_mark: Crea un repositorio en GitHub con la rama main protegida.
-:white_check_mark: Crea un proyecto que incluya EsLint (Airbnb) y Prettier.
-:white_check_mark: Añade Husky y los hooks "commit-msg" y "pre-push".
-:white_check_mark: Crea rama de trabajo.
-:white_check_mark: Mergea con PR.
+-   [x] Crea un repositorio en GitHub con la rama main protegida.
+
+-   [x] Crea un proyecto que incluya EsLint (Airbnb) y Prettier.
+
+-   [x] Añade Husky y los hooks "commit-msg" y "pre-push".
+
+-   [x] Crea rama de trabajo.
+
+-   [x] Mergea con PR.
+
+## Tecnologías usadas
+
+![Logos of used technologies](/assets/header_logos.jpg)

@@ -1,4 +1,4 @@
-![Logos of used technologies](/assets/header_isdi_logo.jpg)
+![Logos of used technologies](/assets/isdi_logo.jpg)
 
 # :zap: Challenge Week 4
 
@@ -33,4 +33,4 @@ Dada la función **_strictEquals_**, cuando se comparan **A** y **B**, el result
 
 ## Tecnologías usadas
 
-![Logos of used technologies](/assets/header_logos.jpg)
+![Logos of used technologies](/assets/tech_logos.jpg)
